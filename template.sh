@@ -6,4 +6,15 @@
 
 # GLOBAL_VARS="varaibles"
 
+# Functions
+# function function_name(){
+#   guts of function go here
+# }
+
+# Mainbody of script code will go here
+
+# exit return line
+exit 0
+
+
 
